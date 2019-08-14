@@ -7,6 +7,6 @@ include {
 }
 
 inputs = {
-  name          = "testing"
+  resource_group_name =  "testing"
 
 }
